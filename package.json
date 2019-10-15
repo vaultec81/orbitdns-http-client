@@ -1,0 +1,27 @@
+{
+  "name": "orbitdns-http-client",
+  "version": "1.0.1",
+  "description": "orbitdns js http client",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaultec81/orbitdns-http-client.git"
+  },
+  "author": "vaultec81",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaultec81/orbitdns-http-client/issues"
+  },
+  "homepage": "https://github.com/vaultec81/orbitdns-http-client#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "base64url": "^3.0.1",
+    "interface-datastore": "^0.7.0",
+    "ipld-dag-cbor": "^0.15.0",
+    "multiaddr": "^7.1.0",
+    "orbitdns": "latest"
+  }
+}
